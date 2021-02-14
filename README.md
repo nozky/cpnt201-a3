@@ -13,17 +13,17 @@ GH repo: [https://github.com/nozky/cpnt201-a3](https://github.com/nozky/cpnt201-
 GH page live demo: [https://nozky.github.io/cpnt201-a3/](https://nozky.github.io/cpnt201-a3/)
 
 ---
-## Playtime
+## Playtime 
 SVG animation using keyframe, i called this "I'm watching you!"
 [Live Demo - https://nozky.github.io/playground/watching-you-svg/](https://nozky.github.io/playground/watching-you-svg/)
+
+>This is just me exploring some stuff and what it can do.
 
 
 
 ---
 ## Attributions
 Graphics by: [Norvillie Villaruel](https://github.com/nozky)
-
-
 
 
 
