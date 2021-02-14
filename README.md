@@ -2,9 +2,9 @@
 
 ---
 ## Links
-GH repo: []()
+GH repo: [https://github.com/nozky/cpnt201-a3](https://github.com/nozky/cpnt201-a3)
 
-GH page: []()
+GH page live demo: [https://nozky.github.io/cpnt201-a3/](https://nozky.github.io/cpnt201-a3/)
 
 ---
 ## Attributions
