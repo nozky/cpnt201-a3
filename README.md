@@ -2,7 +2,7 @@
 
 ---
 ## Short summary
-Graphics is totally my own idea and drawn from the scratch.
+Graphics is totally my own idea and draw it from the scratch.
 I also include another svg but this is for filter svg please ignore it.
 Some more comments in the svg file, css and html itself.
 
@@ -20,11 +20,9 @@ SVG animation using keyframe, i called this "I'm watching you!"
 >This is just me exploring some stuff and what it can do.
 
 
-
 ---
 ## Attributions
 Graphics by: [Norvillie Villaruel](https://github.com/nozky)
-
 
 
 ---
